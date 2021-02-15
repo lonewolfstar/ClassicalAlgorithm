@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+#二分查找函数
 def find(Data,target):
     low=0
     high=len(Data)-1
